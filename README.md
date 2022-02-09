@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am Pengyu Cheng, a researcher and passionate in machine learning and NLP.
+😄 I am Pengyu Cheng, an enthusiast in machine learning and NLP.
 - I am a senior researcher at Tencent Interactive Entertainment Group.
 - Currently, I am devoting my passion to applying NLP techniques into **game** scenarios, especially for **Metaverse**! 
 - My NLP research interests focus on **text generation**, **dialogue system**, and **interpretable** language understanding. 
