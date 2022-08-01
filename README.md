@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+😄 I am Pengyu Cheng, an researcher in machine learning and NLP. Here are some facts about me:
+- I am currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index).
+- My NLP research interests focus on **dialogue system**, **text generation**, and **interpretable** language understanding. 
+- I also have broad interests in probabilistic machine learning methods.
+- I received my Ph.D. degree from [Duke University](https://ece.duke.edu/) in 2021, advised by Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
+- I graduated with my B.S. degree from the Department of Mathematical Sciences at [Tsinghua University](https://www.math.tsinghua.edu.cn/) in 2017.
+
 <!--
 **Linear95/Linear95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-😄 I am Pengyu Cheng, an researcher in machine learning and NLP. Here are some facts about me:
-- I am currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index).
-- My NLP research interests focus on **dialogue system**, **text generation**, and **interpretable** language understanding. 
-- I also have broad interests in probabilistic machine learning methods.
-- I received my Ph.D. degree from [Duke University](https://ece.duke.edu/) in 2021, advised by Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
-- I graduated with my B.S. degree from the Department of Mathematical Sciences at [Tsinghua University](https://www.math.tsinghua.edu.cn/) in 2017.
-
