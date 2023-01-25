@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 I am Pengyu Cheng, a researcher in machine learning and NLP. Here are some facts about me:
+I am Pengyu Cheng, a researcher in machine learning and NLP. Here are some facts about me:
 - I am currently working at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index).
 - My NLP research interests focus on **dialogue system**, **text generation**, and **interpretable** language understanding. 
 - I also have broad interests in probabilistic machine learning methods.
