@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am Pengyu Cheng, the RL Lead​​ for the ​​Quark Foundation LLM​​ at ​​Alibaba Group, working on Agent & RL training of LLMs. Here are some facts about me:
+I am Pengyu Cheng, the RL Lead​​ for the ​​Quark Foundation LLM​​ at ​​Alibaba Group. Here are some facts about me:
+- I am currently focusing on Agentic & RL training of LLMs.
 - I was previously in the RL & Agent Team at Moonshot AI (Kimi) and the Hunyuan LLM Team at Tencent AI Lab.
 - I worked on LLM Self-play, Alignment (RLHF), Text Generation, and NLP Fairness.
 - I am also interested in probabilistic and information-theoretic machine learning methods.
