@@ -2,7 +2,7 @@
 
 I am Pengyu Cheng, the RL Lead​​ for the ​​Quark Foundation LLM​​ at ​​Alibaba Group. Here are some facts about me:
 - I am currently focusing on Agentic & RL training of LLMs.
-- I was previously in the RL & Agent Team at Moonshot AI (Kimi) and the Hunyuan LLM Team at Tencent AI Lab.
+- I was previously in the RL & Agent Team at Moonshot AI (Kimi), and the Hunyuan LLM Team at Tencent AI Lab.
 - I worked on LLM Self-play, Alignment (RLHF), Text Generation, and NLP Fairness.
 - I am also interested in probabilistic and information-theoretic machine learning methods.
 - I received my Ph.D. degree from [Duke University](https://ece.duke.edu/) in 2021, advised by Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
