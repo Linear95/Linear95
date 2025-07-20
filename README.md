@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Pengyu Cheng, a researcher in NLP and ML. Here are some facts about me:
-- I am currently at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), primarily working on **LLM training**, **AI agents**, and **dialogue systems**.
-- I have been experienced in research and projects about controllable generation, interpretability, and fairness of NLP.
+I am Pengyu Cheng, the RL Lead​​ for the ​​Quark Foundation LLM​​ at ​​Alibaba Group, working on Agent & RL training of LLMs. Here are some facts about me:
+- I was previously in the RL & Agent Team at Moonshot AI (Kimi) and the Hunyuan LLM Team at Tencent AI Lab.
+- I worked on LLM Self-play, Alignment (RLHF), Text Generation, and NLP Fairness.
 - I am also interested in probabilistic and information-theoretic machine learning methods.
 - I received my Ph.D. degree from [Duke University](https://ece.duke.edu/) in 2021, advised by Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
 - I graduated from the Department of Mathematical Sciences at [Tsinghua University](https://www.math.tsinghua.edu.cn/) in 2017, advised by Dr. [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ).
