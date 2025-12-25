@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a researcher at Alibaba Group, leading Quark Foundation LLM RL Team. Here are some facts about me:
+I am currently a researcher at Alibaba Group, leading the RL direction of the Qwen LM Application Team. Here are some facts about me:
 - I am currently focusing on Agentic & RL training of LLMs.
 - I was previously in the RL & Agent Team at Moonshot AI (Kimi), and the Hunyuan LLM Team at Tencent AI Lab.
 - I worked on LLM Self-play, Alignment (RLHF), Text Generation, and NLP Fairness.
